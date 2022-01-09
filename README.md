@@ -1,3 +1,7 @@
+Еechnologies: HTML, CSS, SASS, Java Script, React.js, Node.js, WebPack.
+
+Analogue of the Twitter page: search by posts, add new posts and delete posts, add likes, add favorite posts, number of posts and likes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
